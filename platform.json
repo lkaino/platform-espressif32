@@ -162,6 +162,7 @@
     },
     "tool-mklittlefs": {
       "type": "uploader",
+      "optional": true,
       "owner": "platformio",
       "version": "~1.203.0"
     },
