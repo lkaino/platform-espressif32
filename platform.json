@@ -112,7 +112,7 @@
       "type": "framework",
       "optional": true,
       "owner": "tasmota",
-      "version": "https://github.com/Jason2866/esp32-arduino-lib-builder/releases/download/555/framework-arduinoespressif32-release_v4.4-831152548.tar.gz"
+      "version": "https://github.com/lkaino/esp32-arduino-lib-builder/releases/download/1/framework-arduinoespressif32-release_v4.4-8b874131ce.tar.gz"
     },
     "framework-arduino-mbcwb": {
       "type": "framework",
